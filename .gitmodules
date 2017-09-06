@@ -1,3 +1,6 @@
 [submodule "BankCommon"]
 	path = BankCommon
 	url = https://github.com/elangojerry/BankCommon.git
+[submodule "CRIF"]
+	path = CRIF
+	url = https://github.com/elangojerry/CRIF.git
