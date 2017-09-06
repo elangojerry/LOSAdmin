@@ -1,0 +1,3 @@
+[submodule "BankCommon"]
+	path = BankCommon
+	url = https://github.com/elangojerry/BankCommon.git
